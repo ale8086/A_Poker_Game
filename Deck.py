@@ -35,4 +35,4 @@ class Deck:
                 new_card = (rank, suit)
                 self.__cards.append(new_card)
 
-                how to commit changes to the repository
+            
